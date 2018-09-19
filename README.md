@@ -1,2 +1,4 @@
-# Socket_Client_Servidor
-C# Socket_Client_Servidor
+# C# Codigos e Socket Client e Servidor
+
+C# Codigos Simples
+C# Socket Client e Servidor
